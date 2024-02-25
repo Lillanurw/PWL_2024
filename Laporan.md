@@ -71,5 +71,9 @@ Dapat tetap menghasilkan output meski nilai parameter route $nama tidak diisi ka
 <img src="picture/9.png">
 Menghasilkan output dengan nama John, karena diisikan nilai default yaitu John.
 
+## CONTROLLER
+
+### MEMBUAT CONTROLLER
+<img src="picture/10.png">
 
 
